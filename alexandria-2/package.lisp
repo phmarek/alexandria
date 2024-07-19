@@ -11,6 +11,7 @@
    #:rmajor-to-indices
    ;; lists
    #:delete-from-plist*
+   #:map-permutations*
    ;; control-flow
    #:line-up-first
    #:line-up-last
